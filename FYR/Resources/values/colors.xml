@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <!-- Orange_-->
+   <color name="primary">#FF5722</color>
+    <!-- Dark oragne Orange_-->
+  <color name="primary_dark">#E64A19</color>
+  <color name="primary_light">#FFCCBC</color>
+    <!-- Yellow-->
+  <color name="accent">#FFEB3B</color>
+    <!-- Dark Dark Gray-->
+  <color name="primary_text">#212121</color>
+  <color name="secondary_text">#757575</color>
+    <!-- White-->
+  <color name="icons">#FFFFFF</color>
+  <color name="divider">#BDBDBD</color>
+</resources>
