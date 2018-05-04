@@ -44,7 +44,7 @@ namespace FYR
 
                 //var userFound = false;
 
-
+                //To check if inputs are working
                 // Toast.MakeText(this, "UI Username: " + txtUsername.Text, ToastLength.Short).Show();
                 //Toast.MakeText(this, "UI Password: " + txtPassword.Text, ToastLength.Short).Show();
 

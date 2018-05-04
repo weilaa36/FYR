@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="How did you do today? "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="In 160 characters or less, reflect on todays progress. "
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/txtEntry"
+        android:capitalize="none"
+        android:inputType="textMultiLine"
+        android:textAppearance="@android:style/TextAppearance.Material.Body1"
+        android:hint="How did you make progress? Did something stand in the way of makeing prgress?"
+        android:singleLine="false"
+        android:layout_marginTop="0.0dp"
+        android:layout_marginBottom="0.0dp" />
+    <Button
+        android:text="Add Journal Entry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnAddEntry" />
+</LinearLayout>

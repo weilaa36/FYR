@@ -107,6 +107,9 @@
     <Compile Include="Activities\RegisterActivity.cs" />
     <Compile Include="Activities\ReflectionActivity.cs" />
     <Compile Include="Classes\TableLogin.cs" />
+    <Compile Include="Classes\TableJournal.cs" />
+    <Compile Include="Activities\JournalActivity.cs" />
+    <Compile Include="Activities\MenuActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\CategoryResolution.axml">
@@ -122,6 +125,12 @@
     <AndroidResource Include="Resources\values\colors.xml" />
     <AndroidResource Include="Resources\values-v21\styles.xml" />
     <AndroidResource Include="Resources\layout\Reflection.axml" />
+    <AndroidResource Include="Resources\layout\Journal.axml" />
+    <AndroidResource Include="Resources\drawable\ic_create_black_48dp.png" />
+    <AndroidResource Include="Resources\drawable\checkldpi.png" />
+    <AndroidResource Include="Resources\drawable\homeldpi.png" />
+    <AndroidResource Include="Resources\drawable\Pencilldpi.png" />
+    <AndroidResource Include="Resources\layout\Menu.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
