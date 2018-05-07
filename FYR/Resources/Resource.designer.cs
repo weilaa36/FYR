@@ -1939,17 +1939,17 @@ namespace FYR
 			// aapt resource value: 0x7f0a002f
 			public const int bottom = 2131361839;
 			
-			// aapt resource value: 0x7f0a0069
-			public const int btnAddEntry = 2131361897;
+			// aapt resource value: 0x7f0a006d
+			public const int btnAddEntry = 2131361901;
 			
 			// aapt resource value: 0x7f0a008a
 			public const int btnCreate = 2131361930;
 			
-			// aapt resource value: 0x7f0a006c
-			public const int btnLogin = 2131361900;
+			// aapt resource value: 0x7f0a0070
+			public const int btnLogin = 2131361904;
 			
-			// aapt resource value: 0x7f0a006d
-			public const int btnRegister = 2131361901;
+			// aapt resource value: 0x7f0a0071
+			public const int btnRegister = 2131361905;
 			
 			// aapt resource value: 0x7f0a003e
 			public const int buttonPanel = 2131361854;
@@ -2008,14 +2008,14 @@ namespace FYR
 			// aapt resource value: 0x7f0a0013
 			public const int homeAsUp = 2131361811;
 			
-			// aapt resource value: 0x7f0a006f
-			public const int ibtnHome = 2131361903;
+			// aapt resource value: 0x7f0a0068
+			public const int ibtnHome = 2131361896;
 			
-			// aapt resource value: 0x7f0a0070
-			public const int ibtnJournal = 2131361904;
+			// aapt resource value: 0x7f0a0069
+			public const int ibtnJournal = 2131361897;
 			
-			// aapt resource value: 0x7f0a0071
-			public const int ibtnReflection = 2131361905;
+			// aapt resource value: 0x7f0a006a
+			public const int ibtnReflection = 2131361898;
 			
 			// aapt resource value: 0x7f0a003d
 			public const int icon = 2131361853;
@@ -2041,8 +2041,8 @@ namespace FYR
 			// aapt resource value: 0x7f0a000a
 			public const int line3 = 2131361802;
 			
-			// aapt resource value: 0x7f0a006e
-			public const int linearLayout1 = 2131361902;
+			// aapt resource value: 0x7f0a0067
+			public const int linearLayout1 = 2131361895;
 			
 			// aapt resource value: 0x7f0a0066
 			public const int listCategory = 2131361894;
@@ -2203,8 +2203,8 @@ namespace FYR
 			// aapt resource value: 0x7f0a0044
 			public const int textSpacerNoTitle = 2131361860;
 			
-			// aapt resource value: 0x7f0a0067
-			public const int textView1 = 2131361895;
+			// aapt resource value: 0x7f0a006b
+			public const int textView1 = 2131361899;
 			
 			// aapt resource value: 0x7f0a007f
 			public const int time = 2131361919;
@@ -2230,17 +2230,17 @@ namespace FYR
 			// aapt resource value: 0x7f0a0088
 			public const int txtEmail = 2131361928;
 			
-			// aapt resource value: 0x7f0a0068
-			public const int txtEntry = 2131361896;
+			// aapt resource value: 0x7f0a006c
+			public const int txtJournalEntry = 2131361900;
 			
 			// aapt resource value: 0x7f0a0089
 			public const int txtMatchPassword = 2131361929;
 			
-			// aapt resource value: 0x7f0a006b
-			public const int txtPassword = 2131361899;
+			// aapt resource value: 0x7f0a006f
+			public const int txtPassword = 2131361903;
 			
-			// aapt resource value: 0x7f0a006a
-			public const int txtUsername = 2131361898;
+			// aapt resource value: 0x7f0a006e
+			public const int txtUsername = 2131361902;
 			
 			// aapt resource value: 0x7f0a001f
 			public const int uniform = 2131361823;

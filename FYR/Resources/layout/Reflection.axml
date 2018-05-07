@@ -3,6 +3,29 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/linearLayout1">
+        <ImageButton
+            android:src="@drawable/homeldpi"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/ibtnHome" />
+        <ImageButton
+            android:src="@drawable/pencilldpi"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/ibtnJournal" />
+        <ImageButton
+            android:src="@drawable/checkldpi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ibtnReflection"
+            android:layout_marginRight="0.0dp" />
+    </LinearLayout>
     <TextView
         android:text="Reflect on your Journal Entries "
         android:textAppearance="?android:attr/textAppearanceMedium"
